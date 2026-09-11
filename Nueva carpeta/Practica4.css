@@ -1,0 +1,11 @@
+h1{
+    color:blueviolet;
+    border: 2px solid violet;
+    background-color: blanchedalmond;
+}
+input[type="button"] {
+    width: 120px;
+    background-color: rgb(235, 235, 243);
+    font-size: large;
+    color: blueviolet;
+}
